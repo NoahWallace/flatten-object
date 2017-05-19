@@ -1,6 +1,6 @@
 {
   "name": "flatten-js-object",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Function that flattens nested objects to a simple object",
   "main": "index.js",
   "scripts": {
