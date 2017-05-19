@@ -1,5 +1,5 @@
 {
-  "name": "flatten-object",
+  "name": "flatten-js-object",
   "version": "1.0.0",
   "description": "Simple Function that flattens nested objects to a simple object",
   "main": "index.js",

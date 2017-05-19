@@ -4,7 +4,7 @@ Flatten Object
 
 ### Usage
 
-    var flatten= require("flatten-object")
+    var flatten= require("flatten-js-object")
 
     var obj = {
         ABC:123
