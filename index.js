@@ -16,5 +16,5 @@ function flattenKeys () {
 	return set
 }
 
-module.exports.flatten= flattenKeys();
+module.exports= flattenKeys();
 
